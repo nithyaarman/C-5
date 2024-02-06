@@ -1,0 +1,11 @@
+body{
+    margin: 5em;
+    padding: 10px;
+}
+.img{
+    width: 500px;
+    height: 400px;
+}
+.figure{
+    font-style: italic;
+}
